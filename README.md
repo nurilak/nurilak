@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nurilak
-- 👀 I’m interested in prgraming and computing science
+- 👀 I’m interested in programing and computing science
 - 🌱 I’m currently learning web development - HTML, CSS and Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
